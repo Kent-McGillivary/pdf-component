@@ -222,10 +222,6 @@ function loadPDFViewer() {
   }
 }
 
-//window.loadPDFViewer = loadPDFViewer;
-
-
-
 let pdfWebViewer = {
   loadPDFViewer:loadPDFViewer,
   isLoaded: false
