@@ -224,7 +224,7 @@ function loadPDFViewer() {
 
 //window.loadPDFViewer = loadPDFViewer;
 
-console.log("Read file");
+
 
 let pdfWebViewer = {
   loadPDFViewer:loadPDFViewer,
